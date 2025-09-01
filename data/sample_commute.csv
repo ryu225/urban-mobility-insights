@@ -1,0 +1,8 @@
+origin,destination,avg_minutes
+Olaya,King Fahd,35
+Olaya,Diriyah,25
+Diriyah,King Fahd,30
+Malaz,Olaya,40
+Malaz,Diriyah,38
+King Fahd,Airport,50
+Airport,Olaya,55
